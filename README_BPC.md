@@ -40,20 +40,20 @@
 - AI 3-2. [RNN Long Sentence                         ][ML7240]
 - AI 3-3. [RNN Prediction                            ][ML7250]
 
-[ML1010]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML101-Basics_operations.html                 "Go ML1010"
-[ML1020]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML102-Linear_Regression.html                 "Go ML1020"
-[ML1030]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML103-Minimizing_Cost.html                   "Go ML1030"
-[ML1040]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML104-Multi-Variable_linear_regression.html  "Go ML1040"
+[ML1010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML101-Basics_operations.html                 "Go ML1010"
+[ML1020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML102-Linear_Regression.html                 "Go ML1020"
+[ML1030]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML103-Minimizing_Cost.html                   "Go ML1030"
+[ML1040]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML104-Multi-Variable_linear_regression.html  "Go ML1040"
 
-[ML2010]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML201-Logistic_classifier_ver2.html          "Go ML2010"
-[ML2020]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML202-Softmax_Classifier.html                "Go ML2020"
+[ML2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML201-Logistic_classifier_ver2.html          "Go ML2010"
+[ML2020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML202-Softmax_Classifier.html                "Go ML2020"
 
-[ML6200]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML620-CNN_Basics.html                        "Go ML6200"
-[ML7240]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML724_RNN_Long_Sentence.html                 "Go ML7240"
-[ML7250]:  https://htmlpreview.github.io/?https://github.com/lukejskim/kmi19-kweather/blob/master/practice_code/BDA-ML725_RNN_Stock_Prediction.html              "Go ML7250"
+[ML6200]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML620-CNN_Basics.html                        "Go ML6200"
+[ML7240]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML724_RNN_Long_Sentence.html                 "Go ML7240"
+[ML7250]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/kmi19-kweather/blob/master/practice_code/BDA-ML725_RNN_Stock_Prediction.html              "Go ML7250"
 
 
 
 <hr>
-<marquee><font size=3 color='brown'>The lukejskim find the information to design valuable society with Technology & Craft.</font></marquee>
+<marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
 <div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
